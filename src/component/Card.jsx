@@ -11,14 +11,14 @@ function Card() {
               alt="..."
             />
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
+              <h5 class="card-title">Joda</h5>
               <p class="card-text">
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                 Facere, ullam quos, explicabo doloremque pariatur totam atque
                 cum doloribus amet dicta hic nihil non, esse asperiores unde
                 fugiat fuga sapiente iure.
               </p>
-              <a href="#" class="btn btn-primary">
+              <a href="#" className="btn btn-primary">
                 Find Out More!
               </a>
             </div>
@@ -32,7 +32,7 @@ function Card() {
               alt="..."
             />
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
+              <h5 class="card-title">Darth Vader</h5>
               <p class="card-text">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Laboriosam eveniet consequatur pariatur similique illo
@@ -40,7 +40,7 @@ function Card() {
                 consequatur delectus reiciendis eos, ea quas consectetur
                 corporis?
               </p>
-              <a href="#" class="btn btn-primary">
+              <a href="#" className="btn btn-primary">
                 Find Out More!
               </a>
             </div>
@@ -54,14 +54,14 @@ function Card() {
               alt="..."
             />
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
+              <h5 class="card-title">StormTrooper</h5>
               <p class="card-text">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
                 et quasi officia beatae consectetur laborum qui quisquam harum
                 saepe laudantium fugit fugiat, ut recusandae omnis dolorem
                 labore tempora a? Ipsa?
               </p>
-              <a href="#" class="btn btn-primary">
+              <a href="#" className="btn btn-primary">
                 Find Out More!
               </a>
             </div>
@@ -75,14 +75,14 @@ function Card() {
               alt="..."
             />
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
+              <h5 class="card-title">Luke Skywalker</h5>
               <p class="card-text">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio
                 aut eligendi pariatur nihil eius similique nam enim, obcaecati
                 quasi, quod explicabo ratione assumenda nostrum, maiores animi
                 voluptate deleniti velit exercitationem.
               </p>
-              <a href="#" class="btn btn-primary">
+              <a href="#" className="btn btn-primary">
                 Find Out More!
               </a>
             </div>
